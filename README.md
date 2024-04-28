@@ -77,6 +77,6 @@ public:
 
 
 ### Данная лабораторная работа выполнялась ***только на сложном уровне***.
-### При этом задание 1 реализовано в файле [lab.cpp](https://github.com/d7anSeR/lab2sys_prog/blob/main/main.cpp), а задание 2 - [queue.cpp](https://github.com/d7anSeR/lab3sys_prog/blob/main/queue.cpp).
+### При этом задание 1 реализовано в файле [lab.cpp](https://github.com/d7anSeR/lab3sys_prog/blob/main/lab.cpp), а задание 2 - [queue.cpp](https://github.com/d7anSeR/lab3sys_prog/blob/main/queue.cpp).
 
 ## Полное задание на лабу можно найти [здесь](https://github.com/itsecd/system-programming/blob/main/Labs/Лабораторная%20работа%203.pdf)
