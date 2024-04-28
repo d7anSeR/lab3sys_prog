@@ -8,5 +8,5 @@ print(matrix1)
 print("\nMatrix2:\n")
 print(matrix2)
 # Сохранение матриц в бинарные файлы
-np.savetxt('array1', matrix1, fmt='%d')
-np.savetxt('array2', matrix2, fmt='%d')
+np.savetxt('array1', matrix1, fmt='%.2f')
+np.savetxt('array2', matrix2, fmt='%.2f')
